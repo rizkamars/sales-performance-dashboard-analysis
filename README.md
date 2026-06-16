@@ -1,5 +1,10 @@
 # sales-performance-dashboard-analysis
 This project presents an interactive sales performance dashboard developed using Power BI. The dashboard analyzes sales trends, product performance, customer behavior, and key business metrics to support data-driven decision making.
+## Data Source
+This project uses a publicly available dataset obtained from Kaggle. The dataset contains sales transaction data used for exploratory analysis and dashboard development.
+Source: Kaggle
+Dataset: E-commerce Business Transaction
+Link: https://www.kaggle.com/datasets/gabrielramos87/an-online-shop-business
 # Objectives
 - Monitor overall sales performance
 - Identify top-performing products
