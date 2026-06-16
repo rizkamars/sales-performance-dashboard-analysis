@@ -13,7 +13,7 @@ Data Visualization
 Business Analytics
 Dashboard Preview
 
-<img width="759" height="424" alt="image" src="https://github.com/user-attachments/assets/8608d229-b308-44ed-baf5-fa14ee77d87d" />
+<img width="1115" height="626" alt="image" src="https://github.com/user-attachments/assets/308a36b0-87a1-47ec-afac-eb3382b91e24" />
 
 # Key Features
 Sales KPI Monitoring
